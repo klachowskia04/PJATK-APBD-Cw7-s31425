@@ -1,0 +1,48 @@
+# Build results
+bin/
+obj/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+
+# EF local DB files
+*.mdf
+*.ldf
+
+# Publish output
+publish/
+
+# Temporary files
+tmp/
+temp/
+
+# Test results
+TestResults/
+
+# Generated certificates
+*.pfx
+
+# JetBrains caches
+_ReSharper*
+*.DotSettings.user
